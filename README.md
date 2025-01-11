@@ -1,2 +1,2 @@
-# multi-ai-agent-systems-with-crewai
-Multi AI Agent Systems with crewAI course
+# Multi AI Agent Systems with crewAI
+Multi AI Agent Systems with crewAI course notebooks
